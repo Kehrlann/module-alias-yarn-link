@@ -1,0 +1,6 @@
+{
+  "name": "module-alias-issue-37-source-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
